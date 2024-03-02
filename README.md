@@ -2,4 +2,4 @@
 
 ## local_manifests-V2
 
-git clone https://github.com/samsungexynos9810/local_manifests-V2 -b fourteen .repo/local_manifests
+git clone https://github.com/Cyderxxv/local_manifests-V2 -b fourteen-audio .repo/local_manifests
